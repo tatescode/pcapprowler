@@ -1,6 +1,8 @@
 # netoverview
  A Python-based tool meant for rapidly gaining high-level statistical insights into the network activities of a PCAP file. 
 
+ *New project, doesn't work yet.*
+
 # NetOverview 🌐🔍
 
 ## Rapid Insights into Network Traffic
@@ -62,12 +64,6 @@ Unusual Patterns Detected:
 - High volume of traffic from 192.168.1.100 to port 4444
 - Spike in ICMP traffic at 15:30:00
 ```
-
----
-
-### 🤝 Contributing
-
-I welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit pull requests, report issues, or request features.
 
 ---
 
