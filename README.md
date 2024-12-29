@@ -1,25 +1,3 @@
-# netoverview
- A Python-based tool meant for rapidly gaining high-level statistical insights into the network activities of a PCAP file. 
-
- *New project, doesn't work yet.*
-
-# NetOverview 🌐🔍
-
-## Rapid Insights into Network Traffic
-
-NetOverview is a Python-based tool designed to provide quick, high-level statistical insights into network activities captured in PCAP files. 
-
----
-
-### 🚀 Features
-
-- **Swift Analysis**: Quickly process PCAP files to extract key network statistics.
-- **High-Level Insights**: Get a bird's-eye view of network activities without drowning in details.
-- **Blue Team Oriented**: Tailored for cybersecurity professionals defending networks.
-- **PCAP(NG) Friendly**: Works directly with pcap and pcapng files, the industry standard for packet captures.
-
----
-
 ### 🛠 Installation
 
 ```bash
@@ -32,10 +10,10 @@ cd netoverview
 
 ---
 
-### 🏃‍♂️ Quick Start
+### Quick Start
 
 ```bash
-python netoverview.py path/to/your/capture.pcap
+python PcapProwler.py path/to/your/capture.pcap
 ```
 
 ---
