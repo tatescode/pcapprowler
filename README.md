@@ -2,7 +2,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/netoverview.git
+git clone https://github.com/tatescode/pcapprowler
 
 # Navigate to the project directory
 cd netoverview
@@ -21,7 +21,7 @@ python PcapProwler.py path/to/your/capture.pcap
 ### 📊 Sample Output
 
 ```
-NetOverview Analysis Report
+Analysis Report
 ---------------------------
 File: capture.pcap
 Packets Analyzed: 10,000
